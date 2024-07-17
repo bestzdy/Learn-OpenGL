@@ -1,0 +1,6 @@
+﻿  LoadShaders.cpp
+D:\zdy\C++代码\Experiment\common\LoadShaders.cpp(44,42): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\zdy\C++代码\Experiment\common\LoadShaders.cpp(45,32): warning C4244: “参数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Experiment_8.vcxproj -> D:\zdy\C++代码\Experiment\Debug\Experiment_8.exe
