@@ -1,0 +1,25 @@
+﻿  LoadShaders.cpp
+  main.cpp
+D:\zdy\C++代码\Experiment\common\LoadShaders.cpp(44,42): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\zdy\C++代码\Experiment\common\LoadShaders.cpp(45,32): warning C4244: “参数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,42): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,42): warning C4244:         with
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,42): warning C4244:         [
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,42): warning C4244:             T=float
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,42): warning C4244:         ]
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,23): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,23): warning C4244:         with
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,23): warning C4244:         [
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,23): warning C4244:             T=float
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(159,23): warning C4244:         ]
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(180,23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(181,23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(182,23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(211,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(217,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(223,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(229,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(235,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+D:\zdy\C++代码\Experiment\Experiment_10\main.cpp(241,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+  正在生成代码...
+  Experiment_10.vcxproj -> D:\zdy\C++代码\Experiment\Debug\Experiment_a10.exe
